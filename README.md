@@ -1,4 +1,4 @@
-# Java Full Stack Roadmap 
+# Java Full Stack Roadmap
 
 ## Overview
 This roadmap will guide you through the complete process of becoming a Java Full Stack Developer, covering core Java concepts, frontend development, backend development, database integration, and full-stack deployment. The roadmap is structured with hands-on projects to reinforce learning and build a strong portfolio.
