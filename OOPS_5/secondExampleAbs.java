@@ -2,11 +2,11 @@ interface Employee6 {
     double calculateSalary();
 }
 
-class FullTimeEmployee5 implements Employee6 {
+class FullTimeEmployee6 implements Employee6 {
     private double monthlySalary;
 
     // Corrected constructor name
-    FullTimeEmployee5(double monthlySalary) {
+    FullTimeEmployee6(double monthlySalary) {
         this.monthlySalary = monthlySalary;
     }
 
@@ -16,11 +16,11 @@ class FullTimeEmployee5 implements Employee6 {
     }
 }
 
-class PartTimeEmployee5 implements Employee6 {
+class PartTimeEmployee6 implements Employee6 {
     private double hourlyRate;
     private int hoursWorked;
 
-    PartTimeEmployee5(double hourlyRate, int hoursWorked) {
+    PartTimeEmployee6(double hourlyRate, int hoursWorked) {
         this.hourlyRate = hourlyRate;
         this.hoursWorked = hoursWorked;
     }
@@ -33,10 +33,10 @@ class PartTimeEmployee5 implements Employee6 {
 
 public class secondExampleAbs {
     public static void main(String[] args) {
-        Employee6 man = new FullTimeEmployee5(60000);
+        Employee6 man = new FullTimeEmployee6(60000);
         System.out.println("Full Time Employee Salary: " + man.calculateSalary());
 
-        Employee6 partTimeWorker = new PartTimeEmployee5(20, 80);
+        Employee6 partTimeWorker = new PartTimeEmployee6(20, 80);
         System.out.println("Part Time Employee Salary: " + partTimeWorker.calculateSalary());
     }
 }
