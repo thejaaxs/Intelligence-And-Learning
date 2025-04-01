@@ -1,3 +1,5 @@
+// Custom Age Exception !
+
 import java.util.Scanner;
 
 class AgeException1 extends Exception {
