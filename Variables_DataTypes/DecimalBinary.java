@@ -28,6 +28,6 @@ public class DecimalBinary {
         System.out.println("Enter the Decimal Number : ");
         int dec = sc.nextInt();
         System.out.println("The Binary Number is : "+DecimalToBinary(dec));
-        sc.close();
+        sc.close(); 
     }
 }
