@@ -8,7 +8,7 @@ This roadmap will guide you through the complete process of becoming a Java Full
 ### Core Java Concepts    
 #### Topics:
 - Variables
-- Data Types
+- Data Types 
 - Loops
 - Conditionals
 - Functions
