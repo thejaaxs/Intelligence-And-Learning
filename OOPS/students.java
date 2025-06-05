@@ -2,12 +2,12 @@
 
 package OOPS;
 
-class Student{
+class StudentS{
     String name ;   
     int rollNo ;
     double marks ;
 
-    public Student(String name ,int rollNo , double marks){
+    public StudentS(String name ,int rollNo , double marks){
         this.name = name ;
         this.rollNo = rollNo ;
         this.marks = marks ;
@@ -24,8 +24,8 @@ class Student{
 }
 public class students {
     public static void main(String[] args) {
-        Student s1 = new Student("Thejas",421055,100.00);
-        Student s2 = new Student("Akash",420009,95.46);
+        StudentS s1 = new StudentS("Thejas",421055,100.00);
+        StudentS s2 = new StudentS("Akash",420009,95.46);
         s1.displayDetails();
         System.out.println("The Grade of "+s1.name+" is "+s1.calculateGrade());
         System.out.println();
