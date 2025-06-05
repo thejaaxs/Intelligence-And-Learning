@@ -16,7 +16,7 @@ public class LCMandGCD {
     static int lcm(int a , int b){
         return (a * b) / gcd(a,b) ;
     }
-    public static void main(String[] args) {
+    public static void main(String[] args) { 
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter the 2 Numbers : ");
         int a = sc.nextInt();
