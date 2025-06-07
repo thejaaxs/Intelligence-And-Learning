@@ -12,7 +12,7 @@ This roadmap will guide you through the complete process of becoming a Java Full
 - Loops
 - Conditionals
 - Functions
-- Object-Oriented Programming (OOP)
+- Object-Oriented Programming (OOP) 
   - Classes & Objects 
   - Inheritance
   - Polymorphism
