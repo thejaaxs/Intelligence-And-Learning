@@ -4,7 +4,7 @@ package Variables_DataTypes;
 
 import java.util.Scanner ;
 public class CircleCalculator {
-    static double area(double radius){
+    static double area(double radius){ 
         return Math.PI * radius * radius ;
     }
     static double circumference(double radius){
