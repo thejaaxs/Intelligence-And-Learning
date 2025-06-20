@@ -15,7 +15,7 @@ This roadmap will guide you through the complete process of becoming a Java Full
 - Object-Oriented Programming (OOP) 
   - Classes & Objects 
   - Inheritance
-  - Polymorphism
+  - Polymorphism 
   - Encapsulation
   - Abstraction
 
