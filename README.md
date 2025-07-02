@@ -5,7 +5,7 @@ This roadmap will guide you through the complete process of becoming a Java Full
     
 ---         
 ## Java Fundamentals       
-### Core Java Concepts        
+### Core Java Concepts         
 #### Topics:        
 - Variables   
 - Data Types       
