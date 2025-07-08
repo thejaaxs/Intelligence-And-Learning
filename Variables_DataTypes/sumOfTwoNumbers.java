@@ -13,6 +13,10 @@ public class sumOfTwoNumbers {
         int n1 = sc.nextInt();
         System.out.println("Enter Second Number : ");
         int n2 = sc.nextInt();
+        if (n1 < 0 || n2 < 0) {
+            System.out.println("Enter Positive Numbers !");
+            return;
+        }
         System.out.println("Sum of 2 Numbers is : " + sumOfTwo(n1, n2));
         sc.close();
     }
