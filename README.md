@@ -1,93 +1,118 @@
-# Java Full Stack Roadmap 
- 
-## Overview   
-This roadmap will guide you through the complete process of becoming a Java Full Stack Developer, covering core Java concepts, frontend development, backend development, database integration, and full-stack deployment. The roadmap is structured with hands-on projects to reinforce learning and build a strong portfolio.
-    
----         
-## Java Fundamentals          
-### Core Java Concepts         
-#### Topics:        
-- Variables   
-- Data Types       
-- Loops
-- Conditionals
-- Functions
-- Object-Oriented Programming (OOP) 
-  - Classes & Objects 
-  - Inheritance
-  - Polymorphism 
-  - Encapsulation
-  - Abstraction
+# Java Full Stack Developer Roadmap
 
-**📌 Hands-On Project:** Build a simple "Student Management System" with CRUD operations (Create, Read, Update, Delete).
+## Table of Contents
 
----
-## Database & SQL
-### SQL Basics & Integration with Java
-#### Topics:
-- Relational Databases
-- SQL Queries (SELECT, INSERT, UPDATE, DELETE)
-- JDBC (Java Database Connectivity)
-
-**📌 Hands-On Project:** Implement a database for the "Student Management System" and link it with your Java backend.
+1. [Java Basics](#java-basics)
+2. [Object-Oriented Programming](#object-oriented-programming)
+3. [Exception Handling](#exception-handling)
+4. [Collections Framework](#collections-framework)
+5. [Multi-threading](#multi-threading)
+6. [File Handling](#file-handling)
+7. [Lambda & Streams](#lambda--streams)
+8. [Spring Boot & REST APIs](#spring-boot--rest-apis)
+9. [Spring Core Concepts](#spring-core-concepts)
+10. [Spring Data JPA & Hibernate](#spring-data-jpa--hibernate)
+11. [Spring Security](#spring-security)
+12. [Microservices Architecture](#microservices-architecture)
+13. [Frontend Development](#frontend-development)
+14. [React.js (Frontend Framework)](#reactjs-frontend-framework)
+15. [Database Skills](#database-skills)
+16. [NoSQL (MongoDB)](#nosql-mongodb)
+17. [DevOps Tools](#devops-tools)
+18. [Cloud & Deployment](#cloud--deployment)
 
 ---
-## HTML, CSS & Basic Frontend
-### Frontend Basics
-#### Topics:
-- HTML (Structure)
-- CSS (Styling)
-- Flexbox & Grid (Layout Design)
 
-**📌 Hands-On Project:** Create a landing page for your "Student Management System" with basic styling.
+## Java Basics
+- Variables, Data Types
+- Operators, Control Statements
+- Loops, Arrays
+- Input/Output (Scanner, BufferedReader)
 
----
-## JavaScript and Frontend Interactivity
-### JavaScript Basics
-#### Topics:
-- Variables
-- Functions
-- DOM Manipulation
-- Event Handling
+## Object-Oriented Programming
+- Classes & Objects
+- Inheritance
+- Polymorphism
+- Abstraction & Encapsulation
 
-**📌 Hands-On Project:** Enhance your landing page by adding dynamic interactivity, such as form validation.
+## Exception Handling
+- try-catch-finally
+- throw & throws
+- Custom Exceptions
 
----
-## Spring Boot & Backend Development
-### Spring Boot Basics
-#### Topics:
-- Spring Boot Setup
-- REST APIs
-- Controller, Service, Repository
-- Simple Database Integration
+## Collections Framework
+- List, Set, Map Interfaces
+- ArrayList, HashMap, HashSet, LinkedList
+- Iterators and Stream API basics
 
-**📌 Hands-On Project:** Build a Spring Boot backend for your "Student Management System" to handle API requests.
+## Multi-threading
+- Thread Lifecycle
+- `Runnable` vs `Thread`
+- Synchronization & Locks
+- Executors Framework
 
----
-## React and Frontend Development
-### React Basics
-#### Topics:
-- JSX
-- Components
-- State & Props
-- React Router
-- useState & useEffect Hooks
+## File Handling
+- FileReader, FileWriter
+- BufferedReader, BufferedWriter
+- Object Serialization
 
-**📌 Hands-On Project:** Convert your landing page into a React app with routing and state management.
+## Lambda & Streams
+- Lambda Expressions
+- Functional Interfaces
+- Stream API operations (`map`, `filter`, `collect`, etc.)
 
----
-## Full Stack Integration
-### Integration & Deployment
-#### Topics:
-- Connecting Frontend (React) with Backend (Spring Boot)
-- Deploying on platforms like Heroku or Vercel
+## Spring Boot & REST APIs
+- Introduction to Spring Boot
+- Creating REST APIs
+- Annotations: `@RestController`, `@RequestMapping`, etc.
+- Postman & Swagger for testing
 
-**📌 Hands-On Project:** Deploy your "Student Management System" as a full-stack web app with a working frontend and backend !
+## Spring Core Concepts
+- Dependency Injection
+- Inversion of Control
+- `@Component`, `@Autowired`, `@Configuration`
 
----
-## Key Projects for Portfolio
-✅ **Student Management System** (Java + SQL)<br>
-✅ **Landing Page** (HTML, CSS, JavaScript)<br>
-✅ **Spring Boot Backend API**<br>
-✅ **React Frontend Application**<br>
-✅ **Full Stack Integration & Deployment**
+## Spring Data JPA & Hibernate
+- ORM Basics
+- Repositories: `CrudRepository`, `JpaRepository`
+- Entity Mapping, JPQL
+
+## Spring Security
+- Authentication vs Authorization
+- Spring Security Filters
+- JWT Integration
+
+## Microservices Architecture
+- Monolith vs Microservices
+- Spring Cloud Basics
+- Service Discovery, API Gateway (e.g., Eureka, Zuul)
+
+## Frontend Development
+- HTML, CSS, JavaScript Basics
+- Responsive Design, Bootstrap
+
+## React.js (Frontend Framework)
+- JSX, Components, Props, State
+- React Hooks
+- API Integration using `fetch` / `axios`
+
+## Database Skills
+- SQL Basics: CRUD, Joins, Indexes
+- MySQL/PostgreSQL Installation & Usage
+- Writing Queries, Stored Procedures
+
+## NoSQL (MongoDB)
+- Document Structure
+- CRUD Operations with Mongo Shell / Compass
+- Integration with Spring Boot
+~
+## DevOps Tools
+- Git & GitHub
+- Maven / Gradle
+- Jenkins Basics
+- CI/CD Pipelines
+
+## Cloud & Deployment
+- AWS Basics (EC2, S3, RDS)
+- Docker Basics
+- Deploying Spring Boot & React apps
