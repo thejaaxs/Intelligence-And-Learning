@@ -1,3 +1,5 @@
+// Check Character Type
+
 import java.util.Scanner;
 
 public class characterType {
