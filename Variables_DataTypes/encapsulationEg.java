@@ -54,11 +54,24 @@ class Student {
     public void setDepartment(String department) {
         this.department = department;
     }
+
+    public void displayDetails() {
+        System.out.println("Student : " + name + "\nRoll Number : " + rollNumber + "\nGPA : " + gpa + "\nDepartment : "
+                + department);
+    }
 }
 
 public class encapsulationEg {
     public static void main(String args[]) {
         Scanner sc = new Scanner(System.in);
+        Student st = new Student("Alice", 150520, 4.8, "Mathematics");
+        st.displayDetails();
+        Student st1 = new Student();
+        st1.displayDetails();
+
+        System.out.println(st.getName());
+        st.setName("Thejas");
+        System.out.println(st.getName());
         sc.close();
     }
 }
