@@ -1,5 +1,5 @@
 # Java Full Stack Developer Roadmap
- 
+
 ## Table of Contents 
 
 1. [Java Basics](#java-basics)
