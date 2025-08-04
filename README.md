@@ -1,4 +1,4 @@
-# Java Full Stack Developer Roadmap 
+# Java Full Stack Developer Roadmap
 
 ## Table of Contents 
 
