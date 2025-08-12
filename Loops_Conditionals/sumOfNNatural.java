@@ -17,6 +17,10 @@ public class sumOfNNatural {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter the Number : ");
         int n = sc.nextInt();
+        if (n <= 0) {
+            System.out.print("The Sum of " + n + " Natural Number is 0");
+            return;
+        }
         System.out.print("The Sum of " + n + " Natural Number is " + sumOfN(n));
         sc.close();
     }
