@@ -1,7 +1,7 @@
 # Java Full Stack Developer Roadmap
 
 ## Table of Contents  
- 
+
 1. [Java Basics](#java-basics) 
 2. [Object-Oriented Programming](#object-oriented-programming)
 3. [Exception Handling](#exception-handling) 
