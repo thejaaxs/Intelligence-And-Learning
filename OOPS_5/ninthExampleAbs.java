@@ -34,6 +34,5 @@ public class ninthExampleAbs {
         Event wedding = EventFactory.getEvent("Wedding");
         wedding.organizeEvent();
         Event corporate = EventFactory.getEvent("Corporate");
-        corporate.organizeEvent();
-    }
+        corporate.organizeEvent();    }
 }
