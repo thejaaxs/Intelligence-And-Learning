@@ -6,7 +6,7 @@ Welcome to the **Java Full Stack Development Repository**. This repository serve
 
 ---
 
-## 📚 Curriculum Overview 
+## 📚 Curriculum Overview  
 
 ### 🧩 Core Java
 - JDK, IntelliJ Setup
