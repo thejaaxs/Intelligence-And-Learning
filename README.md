@@ -1,4 +1,4 @@
-# 🧠 Java Full Stack Development Roadmap 
+# 🧠 Java Full Stack Development Roadmap
 
 Welcome to the **Java Full Stack Development Repository**. This repository serves as a structured and complete guide covering everything from **Core Java** to **Spring Boot**, **Microservices**, **Security**, **Docker**, **Cloud**, **AI integration**, and **Data Structures & Algorithms**.
 
