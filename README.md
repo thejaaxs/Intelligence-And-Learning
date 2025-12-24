@@ -20,7 +20,7 @@ Welcome to the **Java Full Stack Development Repository**. This repository serve
 ### 🧠 Object-Oriented Programming
 - Method Overloading & Overriding 
 - Stack & Heap Memory
-- Wrapper Classes 
+- Wrapper Classes
 - Abstraction: Interface vs Abstract Class
 - Anonymous Classes & Inner Classes
 - Enum & Annotation
