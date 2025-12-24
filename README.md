@@ -31,7 +31,7 @@ Welcome to the **Java Full Stack Development Repository**. This repository serve
 - ArrayList, Set, Map
 - Comparable vs Comparator
 - Stream API: forEach, map, filter, reduce
-- Lambda & Method References
+- Lambda & Method References 
 - Optional, Functional Interfaces
 
 ---
