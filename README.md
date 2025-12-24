@@ -27,7 +27,7 @@ Welcome to the **Java Full Stack Development Repository**. This repository serve
 
 ---
 
-### 💾 Collection Framework & Java 8+
+### 💾 Collection Framework & Java 8+ 
 - ArrayList, Set, Map
 - Comparable vs Comparator
 - Stream API: forEach, map, filter, reduce
