@@ -8,7 +8,7 @@ Welcome to the **Java Full Stack Development Repository**. This repository serve
 
 ## 📚 Curriculum Overview  
 
-### 🧩 Core Java
+### 🧩 Core Java 
 - JDK, IntelliJ Setup
 - Java Syntax, Variables, Data Types, Literals
 - Operators, Control Flow (if, switch, loops)
