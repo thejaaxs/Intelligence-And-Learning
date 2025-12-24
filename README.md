@@ -13,7 +13,7 @@ Welcome to the **Java Full Stack Development Repository**. This repository serve
 - Java Syntax, Variables, Data Types, Literals
 - Operators, Control Flow (if, switch, loops)
 - OOPs Concepts: Class, Object, Constructor, Inheritance, Polymorphism, Encapsulation
-- Arrays, Strings, Static Members 
+- Arrays, Strings, Static Members
 - Exception Handling
 - Threads and Concurrency
  
